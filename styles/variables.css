@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
 :root {
   --bg-blanco: #f2f2f0;
-  --bg-color-1: #a60303;
+  --bg-color-1: #79132b;
   --bg-color-2: #a66963;
   --bg-color-3: #260101;
   --bg-color-4: #a66963;
@@ -12,7 +12,7 @@
   --white: #ffffff;
   --gray: #989898;
 
-  --bg-verde-opacity-50: #a60303;
+  --bg-verde-opacity-50: #79132b;
 
   --bg-section-light: #fffaec;
   --bg-section-dark: #2c2c2c;
@@ -21,7 +21,7 @@
   --bg-gradient: linear-gradient(
     131deg,
     #eee6da -3.63%,
-    #a60303 70.5%,
+    #79132b 70.5%,
     #590202 100.94%
   );
 
